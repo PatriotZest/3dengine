@@ -5,7 +5,7 @@
 #include "directx11engine.h"
 
 #define MAX_LOADSTRING 100
-
+// test
 // Global Variables:
 HINSTANCE hInst;                                // current instance
 WCHAR szTitle[MAX_LOADSTRING];                  // The title bar text
