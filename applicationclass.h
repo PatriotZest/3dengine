@@ -14,7 +14,7 @@ public:
 	ApplicationClass(const ApplicationClass&);
 	~ApplicationClass();
 
-	bool Initalize(int, int, HWND);
+	bool Initialize(int, int, HWND);
 	void Shutdown();
 	bool Frame();
 

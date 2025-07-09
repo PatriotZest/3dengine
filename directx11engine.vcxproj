@@ -127,14 +127,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="applicationclass.h" />
     <ClInclude Include="directx11engine.h" />
     <ClInclude Include="framework.h" />
+    <ClInclude Include="inputclass.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="systemclass.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="applicationclass.cpp" />
     <ClCompile Include="directx11engine.cpp" />
+    <ClCompile Include="inputclass.cpp" />
     <ClCompile Include="systemclass.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -12,7 +12,7 @@ ApplicationClass::~ApplicationClass() {
 
 }
 
-bool ApplicationClass::Initalize(int screenWidth, int screenHeight, HWND hwnd) {
+bool ApplicationClass::Initialize(int screenWidth, int screenHeight, HWND hwnd) {
 	return true;
 }
 

@@ -29,7 +29,7 @@ private:
 
 private:
 	LPCWSTR m_applicationName;
-	HINSTANCE m_histance;
+	HINSTANCE m_hinstance;
 	HWND m_hwnd;
 
 	InputClass* m_Input;
