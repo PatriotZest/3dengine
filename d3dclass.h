@@ -49,8 +49,3 @@ private:
 	D3D11_VIEWPORT m_viewport;
 };
 
-
-
-
-
-};
